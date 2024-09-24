@@ -16,8 +16,8 @@ print(perimetre(c))
 
 
 
-#Doing an aire function
-def aire(x):
+#Doing a surface function
+def surface(x):
     return x**2
 
-print(aire(c))
+print(surface(c))
