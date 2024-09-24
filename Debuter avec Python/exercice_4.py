@@ -20,4 +20,4 @@ print(perimetre(c))
 def surface(x):
     return x**2
 
-print("Surface="+surface(c))
+print(surface(c))
